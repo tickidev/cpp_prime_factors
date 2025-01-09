@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\GitHub Repos\\cpp_prime_factors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1016A73B-1ADB-49C0-990D-05F4AB3CF098}|cpp_prime_factors\\cpp_prime_factors.vcxproj|C:\\dev\\GitHub Repos\\cpp_prime_factors\\cpp_prime_factors\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1016A73B-1ADB-49C0-990D-05F4AB3CF098}|cpp_prime_factors\\cpp_prime_factors.vcxproj|solutionrelative:cpp_prime_factors\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\GitHub Repos\\cpp_prime_factors\\cpp_prime_factors\\src\\main.cpp",
+              "RelativeDocumentMoniker": "cpp_prime_factors\\src\\main.cpp",
+              "ToolTip": "C:\\dev\\GitHub Repos\\cpp_prime_factors\\cpp_prime_factors\\src\\main.cpp",
+              "RelativeToolTip": "cpp_prime_factors\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T20:56:11.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
